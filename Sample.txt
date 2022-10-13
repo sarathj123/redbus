@@ -1,0 +1,54 @@
+terraform
+Docker
+powershell
+yaml 
+kubernetes
+yaml pipelines
+artifacts
+Boards
+sql server
+
+
+
+portal 
+
+azure cli
+
+
+arm templates:json
+
+aws---ui,cloud formation
+
+HCL--hashi corp language
+
+terraform --hcl ----
+
+
+terraform init
+terraform validate
+terraform plan
+terraform apply --auto-approve
+terraform destroy
+
+
+
+
+
+main.tf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
